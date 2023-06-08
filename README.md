@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aditya.rajgupta@yahoo.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/62fe19a2d747d6b7e4238b35](https://app.luminpdf.com/viewer/62fe19a2d747d6b7e4238b35)
+- 📄 Know about my experiences [https://i-amaditya.github.io/Portfolio/](https://i-amaditya.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
